@@ -7,3 +7,29 @@ top: 1px;
 
 background: #E359DE;
 }
+.menu-texto{
+
+position: absolute;
+width: 252px;
+height: 41px;
+left: 1127px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 41px;
+
+color: #FFFFFF;
+}
+.cabec{
+
+position: absolute;
+width: 1440px;
+height: 175px;
+left: 0px;
+top: 37px;
+
+background: #E359DE;
+}
