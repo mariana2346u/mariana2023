@@ -33,3 +33,31 @@ top: 37px;
 
 background: #E359DE;
 }
+.cabec-texto{
+
+position: absolute;
+width: 696px;
+height: 41px;
+left: 415px;
+top: 95px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 53px;
+text-align: center;
+
+color: #000000;
+
+}
+.hob{
+    
+position: absolute;
+width: 1440px;
+height: 739px;
+left: 0px;
+top: 212px;
+
+background: linear-gradient(180deg, #E359DE 0%, rgba(227, 89, 222, 0) 100%);
+}
