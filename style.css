@@ -13,7 +13,22 @@ position: absolute;
 width: 252px;
 height: 41px;
 left: 1127px;
-top: 0px;
+top: 0px; .corpo{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 30% 30% 30%;
+    position: absolute;
+    left: 320px;
+    width: 1000px;
+}
+.corpo-itens{
+    text-align: center;
+    padding: 16px 0;
+}
+.corpo-itens-img{
+    width: 280px;
+}
+
 
 font-family: 'Inter';
 font-style: normal;
@@ -23,7 +38,22 @@ line-height: 41px;
 
 color: #FFFFFF;
 }
-.cabec{
+.cabec{ .corpo{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 30% 30% 30%;
+    position: absolute;
+    left: 320px;
+    width: 1000px;
+}
+.corpo-itens{
+    text-align: center;
+    padding: 16px 0;
+}
+.corpo-itens-img{
+    width: 280px;
+}
+
 
 position: absolute;
 width: 1440px;
@@ -51,7 +81,7 @@ text-align: center;
 color: #000000;
 
 }
-.hob{
+body{
     
 position: absolute;
 width: 1440px;
@@ -61,3 +91,19 @@ top: 212px;
 
 background: linear-gradient(180deg, #E359DE 0%, rgba(227, 89, 222, 0) 100%);
 }
+.corpo{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 30% 30% 30%;
+    position: absolute;
+    left: 320px;
+    width: 1000px;
+}
+.corpo-itens{
+    text-align: center;
+    padding: 16px 0;
+}
+.corpo-itens-img{
+    width: 280px;
+}
+
